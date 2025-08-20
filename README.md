@@ -1,6 +1,6 @@
 ![Header](./github-header-banner.png)
 
-## Hi there, i'm Vladimir
+## Hi there, i am Vladimir
 
 <!--
 **GTaRR/GTaRR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
